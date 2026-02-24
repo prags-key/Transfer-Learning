@@ -1,4 +1,5 @@
 # Implementation-of-Transfer-Learning
+PRAGATHI KUMAR
 ## Aim
 To Implement Transfer Learning for classification using VGG-19 architecture.
 ## Problem Statement and Dataset
